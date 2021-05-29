@@ -1,4 +1,4 @@
-﻿<?php
+﻿<!-- <?php
 
 // Replace this with your own email address
 $siteOwnersEmail = 'pradnesh0729@gmail.com';
@@ -66,4 +66,4 @@ if($_POST) {
 
 }
 
-?>
+?> -->
